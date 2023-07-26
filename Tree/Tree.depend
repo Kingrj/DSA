@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1647624307 source:c:\users\rajat\downloads\coding materials\tree\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Queue.h"
+
+1647623971 c:\users\rajat\downloads\coding materials\tree\queue.h
+	<iostream>
+	<stdlib.h>
+
